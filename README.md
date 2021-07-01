@@ -49,7 +49,7 @@
 
 <!-- DEFINITIONS-->
 [website]: https://manualbrendanweb.netlify.app/
-[linkedin]: www.linkedin.com/in/brendan-potter00
+[linkedin]: https://www.linkedin.com/in/brendan-potter-784666202/
 [fiverr]: https://www.fiverr.com/brendanpotter00
 
 
