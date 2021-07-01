@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <img src="https://raw.githubusercontent.com/brendanpotter00/brendanpotter00/master/resources/banner.png" alt="Hello world">
 
@@ -11,11 +10,9 @@
 
 - Computer Science major and Business minor at Trinity University
 - Frontend Software Engineer at Commuv LLC
-- Freelance Programmer on Fiverr [Fiverr][fiverr]
+- Freelance Programmer on [Fiverr][fiverr]
 - Always learning and searching for career opportunities!
 
-<br />
-<br />
 
 ### Connect with me:
 
