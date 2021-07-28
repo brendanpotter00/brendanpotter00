@@ -10,7 +10,7 @@
 
 - Computer Science major and Business minor at Trinity University
 - Frontend Software Engineer at Commuv LLC
-- Freelance Programmer on [Fiverr][fiverr]
+- Founder of [bnpWebDesigns][bnpWebDesigns]
 - Always learning and searching for career opportunities!
 
 
@@ -50,7 +50,7 @@
 <!-- DEFINITIONS-->
 [website]: https://manualbrendanweb.netlify.app/
 [linkedin]: https://www.linkedin.com/in/brendan-potter-784666202/
-[fiverr]: https://www.fiverr.com/brendanpotter00
+[bnpWebDesigns]: https://bnpwebdesigns.com/
 
 
 <!--
