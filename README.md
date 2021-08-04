@@ -12,7 +12,7 @@
 - Frontend Software Engineer at Commuv LLC
 - Founder of [bnpWebDesigns][bnpWebDesigns]
 - Always learning and searching for career opportunities!
-
+- Here is my [resume][resume]
 
 ### Connect with me:
 
@@ -51,7 +51,7 @@
 [website]: https://manualbrendanweb.netlify.app/
 [linkedin]: https://www.linkedin.com/in/brendan-potter-784666202/
 [bnpWebDesigns]: https://bnpwebdesigns.com/
-
+[resume]: https://www.linkedin.com/in/brendan-potter-784666202/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADO1-tQBUoqZPzgouOWm02d8PKpi3qFjWd4,1635464342062)/
 
 <!--
 **brendanpotter00/brendanpotter00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
