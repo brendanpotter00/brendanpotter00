@@ -47,6 +47,9 @@
 
 ![Brendan's github stats](https://github-readme-stats.vercel.app/api?username=brendanpotter00&show_icons=true&theme=radical)
 
+### Teaching my brother to code:
+![App Screenshot](https://i.imgur.com/LKAFD0b.png)
+
 <!-- DEFINITIONS-->
 [website]: https://manualbrendanweb.netlify.app/
 [linkedin]: https://www.linkedin.com/in/brendan-potter-784666202/
