@@ -56,7 +56,7 @@
 [website]: https://manualbrendanweb.netlify.app/
 [linkedin]: https://www.linkedin.com/in/brendan-potter-784666202/
 [bnpWebDesigns]: https://bnpwebdesigns.com/
-[resume]: https://docs.google.com/document/d/e/2PACX-1vSYIaQ1O1F35Zo7ZmlQwV0jDbggF8JVWh6yJOruXCB-_SgrKCQzw5P7nGhk2dY_-wIbNvTFp9nUKopI/pub
+[resume]: https://docs.google.com/document/d/e/2PACX-1vTCXzXfDr8fUMVHxzl4lcpsl30QlMYHEb9U6KH_kQzedgDOoYf92hQem8RRfMmknw/pub
 
 <!--
 **brendanpotter00/brendanpotter00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
