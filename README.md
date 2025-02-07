@@ -8,8 +8,8 @@
 
 ## About me
 
+- Software Engineer @ ForeFlight A Boeing Company
 - Computer Science major and Business minor at Trinity University
-- Frontend Software Engineer at Commuv LLC
 - Founder of [bnpWebDesigns][bnpWebDesigns]
 - Always learning and searching for career opportunities!
 - Here is my [resume][resume]
